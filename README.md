@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Aishwarya Godre
+# 👋 Hi, I'm Aishwarya  Mahadappa Godre
 
 ### 💜 Aspiring Python Developer | Full Stack Developer
 
